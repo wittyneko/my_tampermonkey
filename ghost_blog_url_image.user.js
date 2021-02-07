@@ -8,7 +8,7 @@
 // @require      https://cdn.jsdelivr.net/npm/jquery@2.2.4/dist/jquery.min.js
 // @match        https://blog.tutoo.xyz/ghost/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/wittyneko/my_tampermonkey/main/ghost_blog_url_image.js
+// @updateURL    https://raw.githubusercontent.com/wittyneko/my_tampermonkey/main/ghost_blog_url_image.user.js
 // ==/UserScript==
 
 (function () {
